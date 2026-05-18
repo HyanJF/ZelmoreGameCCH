@@ -66,7 +66,7 @@ public class MainMenuAnimator : MonoBehaviour
 
         ResetUI();
 
-        seq.Append(title.DOScale(1f, 0.4f).From(0).SetEase(Ease.OutBack));
+        seq.Append(title.DOScale(1f, 0.1f).From(0).SetEase(Ease.OutBack));
 
         AnimateButtons(seq);
 

@@ -28,9 +28,9 @@ public class GenericMenuAnimator : MonoBehaviour
         {
             CanvasGroup cg = elements[i].GetComponent<CanvasGroup>();
 
-            seq.Append(cg.DOFade(1f, 0.1f));
+            seq.Append(cg.DOFade(1f, 0.05f));
             seq.Join(elements[i].DOScale(1f, 0.25f).SetEase(Ease.OutBack));
-            seq.AppendInterval(0.05f);
+            seq.AppendInterval(0.01f);
         }
 
         seq.AppendCallback(PlayIdle);
@@ -61,7 +61,7 @@ public class GenericMenuAnimator : MonoBehaviour
         {
             CanvasGroup cg = elements[i].GetComponent<CanvasGroup>();
 
-            seq.Append(cg.DOFade(0f, 0.15f));
+            seq.Append(cg.DOFade(0f, 0.05f));
             seq.Join(elements[i].DOScale(0f, 0.2f).SetEase(Ease.InBack));
         }
 
