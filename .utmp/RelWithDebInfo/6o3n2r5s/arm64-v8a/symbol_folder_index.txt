@@ -1,0 +1,1 @@
+C:\Users\Hyan\Documents\UnityProyectsDisk\ZelmoreGameCCH\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\6o3n2r5s\obj\arm64-v8a

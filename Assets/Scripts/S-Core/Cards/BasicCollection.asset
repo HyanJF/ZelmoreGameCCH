@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7347f0f8ca0c3fb48a2e2af3568bc7a0, type: 3}
+  m_Name: BasicCollection
+  m_EditorClassIdentifier: Assembly-CSharp::CardCollection
+  collectionName: "Colecci\xF3n B\xE1sica\""
+  description: "La colecci\xF3n que lo iniciara todo, de aqui nace este proyecto."
+  whiteCards:
+  - "Un video con m\xFAsica de Linkin Park de fondo."
+  - Tu compa el lobo solitario.
+  - Un modelo exhibicionista.
+  - Un moderador de Discord con complejo de Hitler.
+  - La camioneta de "fierro viejo" pasando a las 7 a.m,  un domingo.
+  - Un tamal de dulce que en realidad es de chile verde.
+  - "Una disculpa p\xFAblica grabada llorando frente a la c\xE1mara."
+  - "Un hilo de Twitter que no ley\xF3 ni su propia madre."
+  - "La t\xEDa que manda cadenas de bendiciones por WhatsApp."
+  - Un chileno que se cree el centro del universo.
+  - La dignidad perdida por memes de internet.
+  - Desmembramiento.
+  - Un ebrio al volante.
+  - "Los norte\xF1os."
+  - Un fanart perturbador de una serie infantil.
+  - Un emulador de Nintendo en un Alcatel.
+  - La puta necesidad de tener iPhone.
+  - "Depilaci\xF3n l\xE1ser."
+  - Unos tacos de suadero que saben sospechosamente bien.
+  - "El historial de b\xFAsqueda de un fan de Pok\xE9mon."
+  - Un Bot que solo responde con insultos.
+  - Aire.
+  - "El sueldo m\xEDnimo."
+  - "Andar m\xE1s hambreado que un mesero pidiendo el 15%."
+  - Brazzers.
+  - "El pel\xF3n de Brazzers."
+  - Maradona.
+  - Alucines.
+  - "Generaci\xF3n Z."
+  - "Millennials con 30 a\xF1os."
+  - 'E.T. el extraterrestre.
+
+'
+  - Los aliens.
+  - La incapacidad de socializar fuera de internet.
+  - La gente jodida que usa Android.
+  - Un bombardeo.
+  - El FBI.
+  - Trata de Blancas.
+  - El "visto" de mi crush.
+  - Guatemala.
+  - Un tutorial de YouTube con loquendo.
+  - Doxeo accidental por dejar la webcam abierta.
+  - Cienpies humano.
+  - "Masturbarse en p\xFAblico."
+  - "Un tutorial de \"c\xF3mo ser influencer\" hecho por alguien sin seguidores."
+  - Un mod de Minecraft que convierte todo en porno.
+  - "Pedorrearse en p\xFAblico."
+  - Un usuario de internet que se cree hacker de la CIA.
+  - "Una recopilaci\xF3n de YouTube Kids."
+  - La captura de Maduro hecha por Trump.
+  - Un peruano ligando por internet.
+  - "Un ni\xF1o ind\xEDgena."
+  - Sordera.
+  - Jugar a ser nazi.
+  - Terroristas fracasados.
+  - Impuestos pendejos del SAT.
+  - El hambreado de tu compa.
+  - "H\xEDgado encebollado."
+  - Un chiste culero de Omar Chaparro.
+  - "Una se\xF1ora mal operada."
+  - El grupo de WhatsApp.
+  - Tianguis.
+  - Diarrea.
+  - "Cl\xEDtoris."
+  - Miembro.
+  - Un anuncio que no puedo quitar.
+  - Pene.
+  - Vagina.
+  - Dedos de pitos.
+  - "Pol\xEDticos corruptos."
+  - El Temach.
+  - Donald Trump.
+  - 'Disney.
+
+'
+  - La aimp3.
+  - Gordas body positive.
+  - Meseros hambreados.
+  - Los Furros.
+  - "\xC1ngela Aguilar."
+  - Laura Bozzo.
+  - Un Therian.
+  - Condones texturizados.
+  - Machismo.
+  - Feminismo.
+  - Los Gays.
+  - Las lesbianas.
+  - Un trans mal vestido.
+  - Changos violadores.
+  - Productos de Waldos.
+  - La isla de Epstein.
+  - Moderatto.
+  - Un diputado con la realidad alterada.
+  - Un machetazo.
+  - Netflix.
+  - El lolcow de la semana.
+  - "Un gordo tet\xF3n."
+  - "Un graduado de clases en l\xEDnea."
+  - Un brainrot.
+  - "Gente que cree en los hor\xF3scopos."
+  - Mr Beast.
+  - Una sorpresa salada.
+  - Luna Bella.
+  - "Adicci\xF3n a la pornograf\xEDa."
+  - Un wey que se cree Power Ranger.
+  - Los fans de One Piece.
+  - Los justicieros de internet.
+  - "Tu t\xEDo de 40 a\xF1os con Twitter."
+  - "Tu t\xEDo."
+  - "Tu pap\xE1."
+  - "Tu mam\xE1."
+  - "Tu madre est\xE1 en descuento."
+  - Gif curseado.
+  - El wey que manda stickers porno.
+  - Secuestros online.
+  - "Ni\xF1os Youtubers."
+  - "Nicol\xE1s Maduro."
+  - El Ibai.
+  - El Gymbro.
+  - Los Otakus.
+  - "\xC9xtasis."
+  - Metanfetamina.
+  - Crack.
+  - Marihuana.
+  - Incesto.
+  - Autocanibalismo.
+  - Canibalismo.
+  - Necrofilia.
+  blackCards:
+  - text: "No hay nada m\xE1s Mexicano que un taco de \" \"."
+    answers: 1
+  - text: "No hay nada que arruine m\xE1s una primera cita que sacarse \" \" del
+      bolsillo."
+    answers: 1
+  - text: "\xBFQu\xE9 es lo que m\xE1s miedo le da a mi abuela? \u201C \u201D"
+    answers: 1
+  - text: Mi superpoder es invocar " ", pero solo cuando estoy triste.
+    answers: 1
+  - text: "En mi lecho de muerte, mis \xFAltimas palabras ser\xE1n: Busquen \" \"
+      debajo del colch\xF3n."
+    answers: 1
+  - text: "En mi curr\xEDculum puse que soy experto en \" \", pero en realidad solo
+      s\xE9 hacer \" \"."
+    answers: 2
+  - text: "Para mi pr\xF3ximo truco de magia, har\xE9 desaparecer \" \"."
+    answers: 1
+  - text: "La nueva atracci\xF3n de Disney es un animatr\xF3nico de \" \" que no
+      deja de gritar."
+    answers: 1
+  - text: "\xBFQu\xE9 es lo que realmente oculta el \xC1rea 51? \" \""
+    answers: 1
+  - text: Lo que realmente me motiva a levantarme cada lunes es publicar frases inspiradoras
+      sobre " ".
+    answers: 1
+  - text: 'Me despidieron de la oficina por enviar un correo masivo con fotos de
+      " ".
+
+'
+    answers: 1
+  - text: "El verdadero tesoro de Moctezuma no era oro, era una colecci\xF3n de \"
+      \"."
+    answers: 1
+  - text: La nueva tendencia de tiktok es " ".
+    answers: 1
+  - text: "El acelerador de part\xEDculas fall\xF3 y ahora el mundo mut\xF3 con \"
+      \"."
+    answers: 1
+  - text: "El mundial de f\xFAtbol fue cancelado despu\xE9s de que un Tarado tuviera
+      \" \"."
+    answers: 1
+  - text: "Elon Musk anunci\xF3 que el primer cargamento hacia Marte consistir\xE1
+      exclusivamente en \" \"."
+    answers: 1
+  - text: "La nueva actualizaci\xF3n de la Constituci\xF3n ahora garantiza el acceso
+      gratuito a \" \"."
+    answers: 1
+  - text: '" " es la clave para la fama.'
+    answers: 1
+  - text: "\" \" es lo m\xE1s naco y est\xFApido que puedes hacer."
+    answers: 1
+  - text: "La miniatura de YouTube de \" \" es \" \", pero fracasar\xE1n en el intento."
+    answers: 1
+  - text: "El arco de redenci\xF3n dur\xF3 exactamente 5 minutos hasta que volvi\xF3
+      a \" \"."
+    answers: 1
+  - text: "Encontr\xE9 un pelo en mi taco, pero lo que m\xE1s me doli\xF3 fue encontrar
+      \" \"."
+    answers: 1
+  - text: "Banearon mi cuenta de Tinder porque descubrieron que yo ten\xEDa \" \"."
+    answers: 1
+  - text: El nuevo anime de temporada fue censurado por " ".
+    answers: 1
+  - text: "El tr\xE1fico es solo una excusa para reflexionar sobre \" \"."
+    answers: 1
+  - text: La fila siempre ha sido interminable, pero nada comparado con " ".
+    answers: 1
+  - text: "El ingrediente secreto de mi platillo de la cafeter\xEDa es \" \"."
+    answers: 1
+  - text: "Fui al tianguis a buscar una memoria USB y termin\xE9 comprando \" \"."
+    answers: 1
+  - text: "\xBFQu\xE9 es lo que realmente hace que la Ciudad de M\xE9xico se hunda
+      un poco m\xE1s cada a\xF1o? \u201C \u201C"
+    answers: 1
+  - text: "La nueva pol\xEDtica de la empresa nos obliga a dejar de usar \" \" durante
+      el horario laboral."
+    answers: 1
+  - text: "Lo \xFAnico m\xE1s aterrador que ver un \"visto\" en WhatsApp es \" \"."
+    answers: 1
+  - text: "El candidato a la presidencia prometi\xF3 bienestar, pero solo nos dio
+      \" \"."
+    answers: 1
+  - text: "La \xFAltima vez que me sub\xED al Metro en hora pico, perd\xED \" \"."
+    answers: 1
+  - text: "Mi abuela dice que \"es cosa del diablo\", refiri\xE9ndose a \" \"."
+    answers: 1
+  - text: "La raz\xF3n por la que \"La Rosa de Guadalupe\" sigue al aire es \" \"."
+    answers: 1
+  - text: No es una fiesta si no termina en " ".
+    answers: 1
+  - text: "En mi altar de D\xEDa de Muertos, puse una foto de \" \" para que encuentren
+      el camino."
+    answers: 1
+  - text: "La red flag m\xE1s grande en un cabr\xF3n es decir que le gusta \" \"."
+    answers: 1
+  - text: Nos alejamos de esta amistad porque su celular estaba lleno de " ".
+    answers: 1
+  - text: "El nuevo video de Dross se trata de las 7 \" \" m\xE1s perturbadoras del
+      deep web."
+    answers: 1
+  - text: El verdadero tesoro oculto en el centro de la ciudad es " ".
+    answers: 1
+  - text: "Cambi\xE9 mis tacos de suadero por \" \" y ahora mi cuerpo me odia."
+    answers: 1
+  - text: En el grupo de WhatsApp de los vecinos, la gente se pelea principalmente
+      por " ".
+    answers: 1
+  - text: La superioridad moral de los internautas se ve superada cuando les preguntas
+      de " ".
+    answers: 1
+  - text: "La raz\xF3n por la que el streamer de turno empez\xF3 a llorar en vivo
+      fue por \" \"."
+    answers: 1
+  - text: "El pr\xF3ximo drama falso para ganar visitas consistir\xE1 en \" \"."
+    answers: 1
+  - text: "El stream de 24 horas m\xE1s infame de la historia termin\xF3 cuando el
+      protagonista hizo \" \"."
+    answers: 1
+  - text: "La disculpa p\xFAblica de 10 minutos que absolutamente nadie pidi\xF3
+      trata sobre \" \"."
+    answers: 1
